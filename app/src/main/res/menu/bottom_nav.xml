@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/import_btn"
+        android:checked="true"
+        android:icon="@drawable/image"
+        android:color="#6CC5AC"
+        android:title="import" />
+    <item
+        android:id="@+id/scanner_btn"
+        android:icon="@drawable/camera"
+        android:color="#6CC5AC"
+        android:title="Camera"/>
+    <item
+        android:id="@+id/ganerate_btn"
+        android:icon="@drawable/qr"
+        android:color="#6CC5AC"
+        android:title="Generate"/>
+
+
+
+</menu>
